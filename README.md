@@ -1,4 +1,4 @@
-# 👋 Hi, my name is Tolabaev Minkail! 👋
+# 👋 Hi, my name is Mika! 👋
 
 ## 🚀 About Me
 Project Managet | Data analytic | Data Engineer | A little bit Backend Developer (FastApi) | Hackaton's enjoyer
