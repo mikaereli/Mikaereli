@@ -10,6 +10,4 @@ Project Managet | Software Engineer| Hackaton's enjoyer
 
 
 ## 🛠 Skills
-__________________________________________________________________________________________________________________________________________
-|| Golang || Python (numpy, pandas, matplotlib, pycopg2, sqlalchemy) || MySQL, PostgreSQL, Clickhouse || Apache (Airflow, Spark, Kafka) ||
-__________________________________________________________________________________________________________________________________________
+| Golang | Python (numpy, pandas, matplotlib, pycopg2, sqlalchemy) | MySQL, PostgreSQL, Clickhouse | Apache (Airflow, Spark, Kafka) |
